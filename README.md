@@ -230,4 +230,4 @@ Joomla! is available as a complete free version with all features and updates in
 Take the first step towards building your perfect website today! Download Joomla! for free and unleash your creativity.
 
 ---
-**Last updated:** 2026-10-18 02:22:40 UTC
+**Last updated:** 2026-10-18 07:36:51 UTC
